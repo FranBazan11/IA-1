@@ -1,0 +1,7 @@
+Debo Desarrollar un agente que emplee una estrategia de búsqueda A* para ir de una casilla a otra evitando la pared representada, pudiendo seleccionar ustedes mismos el inicio y el final. Muestre en una imagen el camino obtenido.
+
+deberá seguir los pasos de Definimos estado inicial definomos estado final , definimos costo,expandimos,funcion heuristica,ordenamos las casillas(aca entra el algoritmo de busqueda, lista lifo O fifo,a estrella,se suma el costo y la distancia hasta la meta, debemos elegir un criterio de desempate, pongo regla adicional de que no se pueden visitar casillas ya seleccionadas (la lista de los que yae visitado es por cada una de las ramas , para que no se generen conflictos entre distintas ramas de busqueda).
+
+comenta bien el codigo separando estas parte,separa bien la parte de codigo de visualicacion de la parte, codigo algoritmico duro
+
+preguntame antes de comenzar
