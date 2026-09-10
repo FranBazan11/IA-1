@@ -15,4 +15,4 @@ Cambiar a una rama existente: git checkout <nombre-de-la-rama>
 
 Crear una rama nueva y entrar a ella: git checkout -b <nombre-de-la-rama> o git switch -c <nombre-de-la-rama>.
 
-git branch -d <nombre-de-la-rama>
+git branch -D <nombre-de-la-rama>
